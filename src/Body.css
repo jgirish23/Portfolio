@@ -1,0 +1,30 @@
+.web_dev,
+.comp,
+.ethical_hacking,
+.photo_shop {
+  width: 220px;
+  height: 200px;
+  border-radius: 50%;
+}
+.middle {
+  margin: 0;
+}
+body {
+  align-items: center;
+  background-color: #f3f1f5;
+}
+.heading-1,
+.heading-2,
+.heading-3,
+.heading-4 {
+  margin-left: 200px;
+}
+
+.topic-1,
+.topic-2,
+.topic-3,
+.topic-4 {
+  position: relative;
+  bottom: 180px;
+  left: 240px;
+}

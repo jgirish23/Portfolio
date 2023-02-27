@@ -1,0 +1,16 @@
+.my_pic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 0 0 0 20px;
+}
+.header {
+  padding-top: 1.5em;
+  background-color: #e6e6e6;
+  margin-bottom: 5em;
+}
+.name {
+  position: relative;
+  bottom: 150px;
+  left: 250px;
+}

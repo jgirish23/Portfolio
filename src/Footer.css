@@ -1,0 +1,13 @@
+.bottom {
+  margin: 0%;
+  align-items: center;
+  padding-left: 10em;
+  padding-top: 0.5em;
+  background-color: #e6e6e6;
+  gap: 0;
+}
+.img1 {
+  height: 10%;
+  width: 10%;
+  border-radius: 50%;
+}
